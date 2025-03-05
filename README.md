@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+https://github.com/user-attachments/assets/334caf73-eb81-4282-b3f0-4eeb637786d1
 
-![Demo](https://github.com/user-attachments/assets/5b05c10d-4d6f-48c0-b6bd-3a5b51d71df9)
 
 
 
